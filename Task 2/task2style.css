@@ -17,7 +17,7 @@ header {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     width: 100%;
-    background: #fff;
+    background: #231651;
     box-shadow: 0 8px #070410;
 }
 
@@ -40,7 +40,7 @@ nav a:hover {
 }
 
 a {
-    color: #231651;
+    color: #eef36a;
     text-decoration: none;
 }
 
