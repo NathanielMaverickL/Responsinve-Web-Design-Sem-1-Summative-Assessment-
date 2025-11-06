@@ -7,7 +7,7 @@
 
 body {
     font-family: "Lato", sans-serif;
-    background-image: linear-gradient(to right, #231651, #070410);
+    background-image: linear-gradient(to right, #4dccbd, #4dccbd);
     justify-content: center;
     align-items: center;
 }
@@ -36,7 +36,7 @@ nav a {
 
 nav a:hover {
     transform: scale(1.1);
-    color: #4DCCBD;
+    color: #eef36a;
 }
 
 a {
@@ -82,9 +82,9 @@ button, h1, h2 {
 }
 
 .header-button:hover {
-    background: #070410dd;
-    color: #4DCCBD;
-    border: 1.5px solid #4DCCBD;
+    background: #4dccbd;
+    color: #eef36a;
+    border: 1.5px solid #eef36a;
     cursor: pointer;
     transform: scale(1.05);
 }
@@ -106,7 +106,7 @@ button, h1, h2 {
 
 .main-content div {
     width: 100%;
-    background: #fff;
+    background: #ffffff;
 }
 
 /* --- FEATURED MOVIE --- */
@@ -139,9 +139,9 @@ button, h1, h2 {
 }
 
 .featured-movie .movie-button button:hover {
-    background: #070410dd;
-    color: #4DCCBD;
-    border: 1.5px solid #4DCCBD;
+    background: #4dccbd;
+    color: #eef36a;
+    border: 1.5px solid #eef36a;
     cursor: pointer;
     transform: scale(1.05);
 }
@@ -182,9 +182,9 @@ button, h1, h2 {
 }
 
 .one-col-movie .movie-button button:hover {
-    background: #070410dd;
-    color: #4DCCBD;
-    border: 1.5px solid #4DCCBD;
+    background: #4dccbd;
+    color: #eef36a;
+    border: 1.5px solid #eef36a;
     cursor: pointer;
     transform: scale(1.05);
 }
@@ -225,16 +225,16 @@ button, h1, h2 {
 }
 
 .two-col-movie .movie-button button:hover {
-    background: #070410dd;
-    color: #4DCCBD;
-    border: 1.5px solid #4DCCBD;
+    background: #4dccbd;
+    color: #eef36a;
+    border: 1.5px solid #eef36a;
     cursor: pointer;
     transform: scale(1.05);
 }
 
 /* --- CONTENT BOXES --- */
 .content-1, .content-2, .content-3, .content-4, .content-5, .content-6 {
-    box-shadow: 10px 10px rgba(77,204,189,0.833);
+    box-shadow: 10px 10px #eef36a;
     border: 1.5px solid #070410;
 }
 
